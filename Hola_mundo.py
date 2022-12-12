@@ -1,4 +1,2 @@
-print ('Hola mundo')
-nombre = 'Pedro Perez'
-
+nombre = 'Franklin Jara'
 print ('Hola mundo '+ nombre)

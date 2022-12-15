@@ -1,4 +1,4 @@
 print ('Hola mundo')
-nombre = 'Franklin'
+nombre = 'Franklin como estas?'
 
 print ('Hola mundo '+ nombre)
